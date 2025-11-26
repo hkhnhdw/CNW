@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Hoa đỗ quyên",
+        "description": "Hoa có thể nở rực quanh năm, kể cả tiết trời se lạnh của mùa xuân hay cả những ngày nắng nóng cao điểm của mùa hè. Dạ yến thảo được trồng ở chậu treo nơi cửa sổ hay ban công, dáng hoa mềm mại, sắc màu đa dạng nên được yêu thích vô cùng.",
+        "image": "images\/doquyen.jpg"
+    },
+    {
+        "name": "Hoa hải đường",
+        "description": "Hoa hải đường có màu đỏ rực rỡ, tượng trưng cho sự may mắn, thịnh vượng và sung túc. Hoa có thể nở quanh năm, đặc biệt là vào mùa xuân và mùa hè. Trồng hoa hải đường trong chậu đặt ở ban công hay cửa sổ sẽ giúp ngôi nhà của bạn thêm phần rực rỡ, tươi mới.",
+        "image": "images\/haiduong.jpg"
+    },
+    {
+        "name": "Hoa mai",
+        "description": "Hoa mai không chỉ nở rộ vào mùa xuân mà còn có thể nở rộ vào mùa hè. Hoa mai vàng tượng trưng cho sự giàu sang, phú quý và may mắn. Trồng hoa mai trong chậu hoặc vườn nhà sẽ mang lại không khí tươi vui, ấm áp cho ngôi nhà của bạn.",
+        "image": "images\/mai.jpg"
+    },
+    {
+        "name": "Hoa tường vy",
+        "description": "Hoa tường vy có màu sắc rực rỡ, thường nở vào mùa xuân và mùa hè. Hoa tường vy tượng trưng cho sự trong sáng, tinh khiết và tình yêu chân thành. Trồng hoa tường vy trong chậu hoặc vườn nhà sẽ mang lại không gian sống tươi mới, đầy sức sống.",
+        "image": "images\/tuongvy.jpg"
+    },
+    {
+        "name": "Hoa giấy",
+        "description": "Hoa giấy có mặt ở hầu khắp mọi nơi trên đất nước ta, thích hợp với nhiều điều kiện sống khác nhau nên rất dễ trồng, không tốn quá nhiều công chăm sóc nhưng thành quả mang lại sẽ khiến bạn vô cùng hài lòng. Hoa giấy mỏng manh nhưng rất lâu tàn, với nhiều màu như trắng, xanh, đỏ, hồng, tím, vàng… cùng nhiều sắc độ khác nhau. Vào mùa khô hanh, hoa vẫn tươi sáng trên cây khiến ngôi nhà luôn luôn bừng sáng.",
+        "image": "images\/hoagiay.jpg"
+    }
+]
